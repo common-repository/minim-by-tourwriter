@@ -1,0 +1,41 @@
+.minim-info {
+  margin: 0.75em 0;
+  transition: all 0.5s; }
+  .minim-info--error .minim-message.minim-message--error,
+  .minim-info--success .minim-message.minim-message--success,
+  .minim-info--warning .minim-message.minim-message--warning {
+    display: block; }
+  .minim-info-icon {
+    min-width: 10%; }
+  .minim-info .minim-message {
+    background: #FFF;
+    border: 1px solid #5996c5;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    display: none;
+    font-size: 1.125rem;
+    padding: 10px;
+    margin-top: 0 !important;
+    text-align: left;
+    vertical-align: middle; }
+    .minim-info .minim-message--error {
+      border-color: #be0f1e;
+      color: #be0f1e; }
+    .minim-info .minim-message--success {
+      border-color: #68a74f;
+      color: #68a74f; }
+    .minim-info .minim-message--warning {
+      border-color: #E46711;
+      color: #E46711; }
+
+.minim-validate-button {
+  background-color: #525A68;
+  border-radius: 25px;
+  border: 2px solid transparent;
+  color: #fff;
+  margin-top: 10px;
+  min-width: 120px;
+  padding: 10px 18px; }
+  .minim-validate-button:hover {
+    background-color: #414853;
+    cursor: pointer; }

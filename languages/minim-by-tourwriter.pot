@@ -1,0 +1,95 @@
+# Copyright (C) 2021 Tourwriter
+# This file is distributed under the same license as the Tourwriter Itineraries plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tourwriter Itineraries  2.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/minim-by-tourwriter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-27T01:12:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: minim-by-tourwriter\n"
+
+#. Plugin URI of the plugin
+msgid "https://itinerarybuilder.tourwriter.com/help-articles/integrations/wordpress-plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate Tourwriter's software with your Wordpress website to display beautiful itineraries"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tourwriter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.tourwriter.com"
+msgstr ""
+
+#: includes/admin/options-output.php:18
+msgid "Authentication"
+msgstr ""
+
+#: includes/admin/options-output.php:21
+msgid "Enter your Tourwriter API Key in the box below then click the \"Check API Key\" button to connect your Tourwriter account."
+msgstr ""
+
+#: includes/admin/options-output.php:24
+msgid "Once verified, click the \"Save Settings\" button and you can begin embedding itineraries into your posts and pages!"
+msgstr ""
+
+#: includes/admin/options-output.php:30
+msgid "Tourwriter API Key"
+msgstr ""
+
+#: includes/admin/options-output.php:42
+msgid "Navigate to your Profile in Tourwriter to retrieve your unique API key."
+msgstr ""
+
+#: includes/admin/options-output.php:47
+msgid "Success! API key verified."
+msgstr ""
+
+#: includes/admin/options-output.php:50
+msgid "Your Tourwriter API Key appears to be incorrect"
+msgstr ""
+
+#: includes/admin/options-output.php:63
+msgid "Images coming from Tourwriter can be set to one of the sizes specified below. Please choose something appropriate to your layout."
+msgstr ""
+
+#: includes/admin/options-output.php:68
+msgid "Image size"
+msgstr ""
+
+#: includes/admin/options-output.php:95
+msgid "Itinerary images will appear at this size on your post or page"
+msgstr ""
+
+#: includes/admin/options-output.php:102
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin/options.php:94
+msgid "Please enter your Tourwriter API Key"
+msgstr ""
+
+#: includes/admin/options.php:111
+msgid "Tourwriter Itineraries"
+msgstr ""
+
+#: includes/admin/options.php:124
+msgid "Settings"
+msgstr ""
+
+#: includes/minim/functions.php:230
+msgid "This itinerary does not seem to contain any viewable items. Please update the itinerary in Tourwriter to view the items here."
+msgstr ""
+
+#: includes/minim/functions.php:260
+msgid "This content cannot be displayed. Please ensure that you have entered the correct Itinerary ID."
+msgstr ""
